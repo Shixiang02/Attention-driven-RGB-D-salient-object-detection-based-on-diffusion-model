@@ -47,5 +47,14 @@
 # 评价工具
    测评显著性图工具可从此处下载：https://github.com/lartpang/PySODEvalToolkit
 
+   
+感谢**Camodiffusion**开源代码对本工作的帮助：https://github.com/Rapisurazurite/CamoDiffusion
+@article{sun2025conditional,
+  title={Conditional Diffusion Models for Camouflaged and Salient Object Detection},
+  author={Sun, Ke and Chen, Zhongxi and Lin, Xianming and Sun, Xiaoshuai and Liu, Hong and Ji, Rongrong},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
 
 
