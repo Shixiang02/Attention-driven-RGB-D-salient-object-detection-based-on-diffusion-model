@@ -22,6 +22,7 @@
    下载主干网络预训练权重 [pvt_v2_b4_m.pth]:https://pan.baidu.com/s/1CAQeCbWHRx2ApheDkIByZw 提取码: XHCL, 放入 './pretrained_weights/'. 
    
    修改配置文件中数据集路径即可运行
+   
    训练命令：
    accelerate launch train.py \
    --config config/camoDiffusion_352x352.yaml \
@@ -33,6 +34,7 @@
 
 # 预训练权重及推理
   本文模型预训练权重（checkpoint）可从此处下载：通过网盘分享的文件： https://pan.baidu.com/s/1PpUaPcvKQUuTF_v0nci2ew 提取码: XHCL
+  
   推理命令：
   accelerate launch sample.py \
   --config config/camoDiffusion_352x352.yaml \
