@@ -33,7 +33,7 @@
 
 
 # 预训练权重及推理
-  本文模型预训练权重（checkpoint）可从此处下载：通过网盘分享的文件： https://pan.baidu.com/s/1PpUaPcvKQUuTF_v0nci2ew 提取码: XHCL
+  本文模型预训练权重（checkpoint）可从此处下载：https://pan.baidu.com/s/1PpUaPcvKQUuTF_v0nci2ew 提取码: XHCL
   
   推理命令：
   accelerate launch sample.py \
