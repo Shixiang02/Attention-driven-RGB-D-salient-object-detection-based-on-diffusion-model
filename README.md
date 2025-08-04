@@ -48,7 +48,7 @@
    测评显著性图工具可从此处下载：https://github.com/lartpang/PySODEvalToolkit
 
    
-感谢**[Camodiffusion](https://github.com/Rapisurazurite/CamoDiffusion)**对本工作的帮助
+感谢[Camodiffusion](https://github.com/Rapisurazurite/CamoDiffusion)对本工作的帮助
 
 
 
