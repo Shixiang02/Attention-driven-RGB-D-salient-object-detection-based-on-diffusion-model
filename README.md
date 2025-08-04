@@ -49,14 +49,7 @@
 
    
 感谢**[Camodiffusion](https://github.com/Rapisurazurite/CamoDiffusion)**对本工作的帮助
-```bibtex
-@article{sun2025conditional,
-  title={Conditional Diffusion Models for Camouflaged and Salient Object Detection},
-  author={Sun, Ke and Chen, Zhongxi and Lin, Xianming and Sun, Xiaoshuai and Liu, Hong and Ji, Rongrong},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2025},
-  publisher={IEEE}
-}
+
 
 
 
