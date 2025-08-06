@@ -13,6 +13,7 @@
 
 # 性能表现
    本文推理的七个数据集显著性图可从此处下载：https://pan.baidu.com/s/1Q3Z3l3DIQlZqnA05-6CTZQ 提取码: XHCL
+   12个对比模型的显著性图可从此处下载：https://pan.baidu.com/s/1fkAE1L9Wkd2bAAShdEYbcQ 提取码: XHCL
       
    ![Image](https://github.com/Shixiang02/Attention-driven-RGB-D-salient-object-detection-based-on-diffusion-model/blob/main/table1.png)
    ![Image](https://github.com/Shixiang02/Attention-driven-RGB-D-salient-object-detection-based-on-diffusion-model/blob/main/table2.png)
